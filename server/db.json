@@ -1,0 +1,49 @@
+{
+    "studends": [
+        {
+            "name": "张三",
+            "age": 28,
+            "phone": "13812345678",
+            "email": "zhangsan@example.com",
+            "education": "本科",
+            "graduationschool": "XX 大学",
+            "profession": "软件工程师",
+            "profile": "具有丰富的软件开发经验，熟练掌握多种编程语言。",
+            "id": "001"
+        },
+        {
+            "name": "李四",
+            "age": 35,
+            "phone": "15687654321",
+            "email": "lisi@example.com",
+            "education": "硕士",
+            "graduationschool": "YY 大学",
+            "profession": "教师",
+            "profile": "多年教学经验，擅长启发式教学。",
+            "id": "002"
+        },
+        {
+            "name": "王五",
+            "age": 22,
+            "phone": "18765432109",
+            "email": "wangwu@example.com",
+            "education": "大专",
+            "graduationschool": "ZZ 学院",
+            "profession": "市场营销专员",
+            "profile": "对市场动态敏感，有较强的沟通能力。",
+            "id": "003"
+        }
+    ],
+    "classes": [
+        {
+            "id": "001",
+            "name": "一班",
+            "description": "这是一个积极向上、充满活力的班级，同学们团结友爱，共同进步。"
+        },
+        {
+            "id": "002",
+            "name": "二班",
+            "description": "二班拥有良好的学习氛围，注重培养学生的综合素质和创新能力。"
+        }
+    ]
+}
